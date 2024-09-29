@@ -2,7 +2,7 @@
   "name": "scientific-calculator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://hutishseju.github.io/scientific-calculator",
+  "homepage": "https://hutishseju.github.io/scientific-calculator",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -10,6 +10,7 @@
     "mathjs": "^13.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
     "react-scripts": "5.0.1",
     "scientific-calculator": "file:",
     "web-vitals": "^2.1.4"
