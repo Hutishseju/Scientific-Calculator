@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/scientific-calculator/static/css/main.c1c20bc2.css",
-    "main.js": "/scientific-calculator/static/js/main.65d01776.js",
+    "main.js": "/scientific-calculator/static/js/main.7622205b.js",
     "index.html": "/scientific-calculator/index.html",
     "main.c1c20bc2.css.map": "/scientific-calculator/static/css/main.c1c20bc2.css.map",
-    "main.65d01776.js.map": "/scientific-calculator/static/js/main.65d01776.js.map"
+    "main.7622205b.js.map": "/scientific-calculator/static/js/main.7622205b.js.map"
   },
   "entrypoints": [
     "static/css/main.c1c20bc2.css",
-    "static/js/main.65d01776.js"
+    "static/js/main.7622205b.js"
   ]
 }
